@@ -1,0 +1,4 @@
+
+	.wrapper.style1 {
+		-ms-behavior: url("css/ie/backgroundsize.min.htc");
+	}
